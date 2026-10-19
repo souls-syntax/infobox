@@ -1,0 +1,28 @@
+.html-mail {
+  margin: 22px 0 30px;
+  border: 1px solid #e7e9e3;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.remote-images-note {
+  min-height: 38px;
+  padding: 5px 10px 5px 13px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  border-bottom: 1px solid #eceee8;
+  color: #82887d;
+  font-size: 10px;
+}
+
+.email-frame {
+  display: block;
+  width: 100%;
+  height: min(62vh, 680px);
+  min-height: 300px;
+  border: 0;
+  background: #fff;
+}
